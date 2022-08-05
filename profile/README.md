@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Welcome to the DatAtlas organization. DatAtlas is a project thats aims at creating the Wordpress for maps ! 
+Welcome to DatAtlas organization. DatAtlas is a project thats aims at creating the Wordpress for maps ! 
 Thanks to this beautiful tool you will be able to create custom web maps by selecting your data, choosing your features, adding your style. 
-Once your map is created you can embed it in any wesite you want. 
-You want to create beautiful maps with 3D data ? With lot of layers ? With specific filters ? You are at the right place !  
+Once your map is created you can embed it in any website you want. 
+You want to create beautiful maps with 3D data ? With lot of layers ? With specific features ? You are at the right place !  
 
-![Map of industries aroud Lyon Saint-Etienne - created with DatAtlas](https://user-images.githubusercontent.com/33604381/183027634-6bb76d0f-cb53-412c-93cb-2af5acb290e4.png)
-*Map of industries aroud Lyon Saint-Etienne - created with DatAtlas*
+![Map of industries around Lyon Saint-Etienne - created with DatAtlas](https://user-images.githubusercontent.com/33604381/183027634-6bb76d0f-cb53-412c-93cb-2af5acb290e4.png)
+*Map of industries around Lyon Saint-Etienne - created with DatAtlas*
 ![Map of local food suppliers around Lyon - created with DatAtlas](https://user-images.githubusercontent.com/33604381/183027717-74cec1bd-4822-4f5c-9b44-697b64c46da8.png)
 *Map of local food suppliers around Lyon - created with DatAtlas*
 
