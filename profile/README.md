@@ -24,7 +24,7 @@ The backend uses an other JS technology : node.js.
 The backend is a specific ETL that allows DatAtlas to grab data from everywhere. 
 
 ### Want to work with us ? 
-All our issues are in the "front" repository. Do not hesitate to interact directly from the issues ! 
+You can discover all our current issues in the DatAtlas project. Issues "for later" are in the front or the back repository. Feel free to read our CONTRIBUTING.md for more information on how to work with us. 
 Or if you have any question, you can contact us at : hello[at]erasme.org. 
 
 <!--
