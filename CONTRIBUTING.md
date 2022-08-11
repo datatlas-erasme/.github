@@ -1,6 +1,6 @@
 # Welcome to DatAtlas contributing guide
 
-Thank you for investing your time in contributing to our project! 
+Thank you for investing your time in contributing to Datatlas ! 
 
 Read our [Code of Conduct](https://github.com/datatlas-erasme/.github/blob/main/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -12,11 +12,12 @@ To get an overview of the project, read the [README](https://github.com/datatlas
 
 - [Frontend setup](https://github.com/datatlas-erasme/front#readme) 
 - [Backend setup](https://github.com/datatlas-erasme/back#readme)
+- [📘 Datatlas Wiki](https://datatlas-erasme.github.io/docs/)
 
 ## Getting started
 
 Our code is divided in two main repos : [front](https://github.com/datatlas-erasme/front) and [back](https://github.com/datatlas-erasme/back) 
-You may also be interested in the [build](https://github.com/datatlas-erasme/build) repo to deploy a new datatlas instance. 
+
 
 ## Issues
 
@@ -56,6 +57,6 @@ As you update your PR and apply changes, mark each conversation as resolved.
 
 ## Your PR is merged!
 
-Congratulations tadatada The DatAtlas team thanks you sparkles.
+Congratulations tadatada The DatAtlas team thanks you ✨.
 
-Now that you are part of the DatAtlas docs community ! 
+Welcome to the Datatlas community 🙂! 
